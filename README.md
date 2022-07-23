@@ -6,3 +6,12 @@ change username & password in 10 & 13th line & url of the post you want to put a
 change comment text in 20th and 24th line
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd and enter comment or comment.py
+
+👉Twitter Auto Comment
+https://youtu.be/52tglYAXP-M
+
+👉Twitter Auto Retweet & Likes
+https://youtu.be/E12nBOlIXA8
+
+👉Twitter Auto Tweet
+https://youtu.be/VIgeFb8rPZs
