@@ -16,12 +16,12 @@ password.send_keys(Keys.ENTER)
 time.sleep(5)
 driver.get("https://twitter.com/imVkohli/status/1548216619641368577") #change to url to which post you want to put auto comment
 time.sleep(10)
-edit = driver.find_element_by_class_name('public-DraftStyleDefault-ltr')
-edit.send_keys("one century makes good") #change to your comment text
+input = driver.find_element_by_class_name('public-DraftStyleDefault-ltr')
+input.send_keys("one century makes good") #change to your comment text
 driver.find_element_by_xpath('//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div/div/section/div/div/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div[3]/div/div/div[2]/div[2]/div/span/span').click()
 time.sleep(3)
-edit = driver.find_element_by_class_name('public-DraftStyleDefault-ltr')
-edit.send_keys("waiting for vintage form") #change to your comment here
+input = driver.find_element_by_class_name('public-DraftStyleDefault-ltr')
+input.send_keys("waiting for vintage form") #change to your comment here
 driver.find_element_by_xpath('//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div/div/section/div/div/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/div/div[2]/div[3]/div/div/div[2]/div[2]/div/span/span').click()
 time.sleep(20)
 
