@@ -14,6 +14,8 @@ password = driver.find_element_by_name("password")
 password.send_keys("dhoni@76") #put your twitter password
 password.send_keys(Keys.ENTER)
 time.sleep(5)
+
+#upto above code was copied from other script the below codes was made by me
 driver.get("https://twitter.com/imVkohli/status/1548216619641368577") #change to url to which post you want to put auto comment
 time.sleep(8)
 input = driver.find_element_by_class_name('public-DraftStyleDefault-ltr')
