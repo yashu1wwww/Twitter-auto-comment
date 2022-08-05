@@ -1,7 +1,7 @@
 # Twitter-auto-comment
 Twitter auto comment using python
 
-change username & password in 10 & 13th line & url of the post you want to put auto comments change in 17th line 
+change username & password in 11 & 15th line & url of the post you want to put auto comments change in 17th line 
 
 change comment text in 20th and 24th line
 
