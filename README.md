@@ -13,9 +13,6 @@ https://youtu.be/52tglYAXP-M
 👉Twitter Auto Retweet & Likes
 https://youtu.be/E12nBOlIXA8
 
-👉Twitter Auto Tweet
-https://youtu.be/VIgeFb8rPZs
-
 👉Note:-
 
 👉if your selenium version is in latest version then 
