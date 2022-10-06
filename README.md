@@ -10,8 +10,7 @@ Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ 
 👉Twitter Auto Comment
 https://youtu.be/52tglYAXP-M
 
-👉Twitter Auto Retweet & Likes
-https://youtu.be/E12nBOlIXA8
+(see the repo for use multple accounts for auto comment)
 
 👉Note:-
 
