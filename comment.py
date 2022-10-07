@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-driver= webdriver.Chrome("chromedriver.exe")
+driver= webdriver.Chrome()
 driver.maximize_window()
 
 driver.get("https://twitter.com/i/flow/login")
